@@ -15,6 +15,8 @@ Este es un pequeño proyecto en JavaScript que permite agregar nombres a una lis
 - **JAVASCRIPT**
   
 ![image](https://github.com/user-attachments/assets/3954fced-ed5a-4723-a48f-b1604c7914a3)
+![image](https://github.com/user-attachments/assets/545ec6cb-6739-4e40-9e7a-c655005a2ced)
+
 
 ## 📌 Uso
 
