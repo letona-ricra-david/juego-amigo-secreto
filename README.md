@@ -15,3 +15,21 @@ Este es un pequeño proyecto en JavaScript que permite agregar nombres a una lis
 - **JAVASCRIPT**
   
 ![image](https://github.com/user-attachments/assets/3954fced-ed5a-4723-a48f-b1604c7914a3)
+
+## 📌 Uso
+
+- Escribe un nombre en el campo de entrada.
+
+- Presiona el botón "Agregar" o la tecla Enter.
+
+- Los nombres aparecerán en la lista de amigos.
+
+- Presiona "Sortear" para elegir un amigo secreto al azar.
+
+## 💡 Mejoras Futuras
+
+- Agregar estilos CSS para mejorar la apariencia.
+
+- Permitir eliminar amigos de la lista.
+
+- Guardar la lista en el almacenamiento local del navegador.
